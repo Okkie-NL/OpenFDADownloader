@@ -1,0 +1,11 @@
+{
+    "endpoint": "device/event",
+    "search": "",
+    "sort": "date_received:asc",
+    "page_size": 1000,
+    "output_directory": "output",
+    "retry_count": 3,
+    "retry_delay": 2,
+    "timeout": 30,
+    "max_pages": 5
+}
